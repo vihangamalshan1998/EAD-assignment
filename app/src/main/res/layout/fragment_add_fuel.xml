@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".fragment.fuelstation.admin.AddFuel">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="5dp"
+        tools:layout_editor_absoluteY="5dp">
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="#b2b3ad"
+            android:gravity="center_horizontal"
+            android:text="@string/add_fuel"
+            android:textAlignment="center"
+            android:textSize="34sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.007"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/liters"
+            android:textColor="#070707"
+            app:layout_constraintBottom_toTopOf="@+id/add_liters"
+            app:layout_constraintEnd_toEndOf="@+id/add_liters"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/add_liters"
+            app:layout_constraintTop_toBottomOf="@+id/add_fuel_type"
+            app:layout_constraintVertical_bias="1.0"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/fuel_type"
+            android:textColor="#090909"
+            app:layout_constraintBottom_toTopOf="@+id/add_fuel_type"
+            app:layout_constraintEnd_toEndOf="@+id/add_fuel_type"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/add_fuel_type"
+            app:layout_constraintTop_toBottomOf="@+id/textView3"
+            app:layout_constraintVertical_bias="1.0"
+            tools:ignore="MissingConstraints" />
+
+        <Button
+            android:id="@+id/add_fuel_btn"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="56dp"
+            android:text="@string/add_fuel"
+            app:backgroundTint="#F8EA70"
+            android:textColor="@android:color/black"
+            app:layout_constraintEnd_toEndOf="@+id/add_liters"
+            app:layout_constraintHorizontal_bias="0.48"
+            app:layout_constraintStart_toStartOf="@+id/add_liters"
+            app:layout_constraintTop_toBottomOf="@+id/add_liters"
+            tools:ignore="MissingConstraints" />
+
+        <EditText
+            android:id="@+id/add_liters"
+            android:layout_width="300dp"
+            android:layout_height="48dp"
+            android:layout_marginTop="44dp"
+            android:background="@drawable/border_view_bg"
+            android:ems="10"
+            android:inputType="textCapSentences|textAutoCorrect|textMultiLine"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            app:layout_constraintEnd_toEndOf="@+id/add_fuel_type"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/add_fuel_type"
+            app:layout_constraintTop_toBottomOf="@+id/add_fuel_type" />
+
+        <EditText
+            android:id="@+id/add_fuel_type"
+            android:layout_width="300dp"
+            android:layout_height="48dp"
+            android:editable="false"
+            android:layout_marginTop="112dp"
+            android:background="@drawable/border_view_bg"
+            android:inputType="textCapSentences|textAutoCorrect|textMultiLine"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.504"
+            app:layout_constraintStart_toStartOf="@+id/textView3"
+            app:layout_constraintTop_toBottomOf="@+id/textView3"
+            tools:ignore="Deprecated,SpeakableTextPresentCheck" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</FrameLayout>

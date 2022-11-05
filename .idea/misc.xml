@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SLIIT/EAD/ead-fuel-management-system/frontend-application/fuel-management-mobile-app/app/src/main/res/drawable/ic_launcher_background.xml" value="0.215" />
+        <entry key="..\:/SLIIT/EAD/ead-fuel-management-system/frontend-application/fuel-management-mobile-app/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.1328647925033467" />
+        <entry key="..\:/SLIIT/EAD/ead-fuel-management-system/frontend-application/fuel-management-mobile-app/app/src/main/res/layout-w936dp/activity_login.xml" value="0.155078125" />
+        <entry key="..\:/SLIIT/EAD/ead-fuel-management-system/frontend-application/fuel-management-mobile-app/app/src/main/res/layout-w936dp/activity_register.xml" value="0.142578125" />
+        <entry key="..\:/SLIIT/EAD/ead-fuel-management-system/frontend-application/fuel-management-mobile-app/app/src/main/res/layout/activity_login.xml" value="0.20677083333333332" />
+        <entry key="..\:/SLIIT/EAD/ead-fuel-management-system/frontend-application/fuel-management-mobile-app/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/SLIIT/EAD/ead-fuel-management-system/frontend-application/fuel-management-mobile-app/app/src/main/res/layout/activity_register.xml" value="0.2078125" />
+        <entry key="..\:/SLIIT/EAD/ead-fuel-management-system/frontend-application/fuel-management-mobile-app/app/src/main/res/layout/fragment_add_fuel.xml" value="0.19270833333333334" />
+        <entry key="..\:/SLIIT/EAD/ead-fuel-management-system/frontend-application/fuel-management-mobile-app/app/src/main/res/layout/fragment_blank.xml" value="0.11302083333333333" />
+        <entry key="..\:/SLIIT/EAD/ead-fuel-management-system/frontend-application/fuel-management-mobile-app/app/src/main/res/layout/fragment_create_station.xml" value="0.2" />
+        <entry key="..\:/SLIIT/EAD/ead-fuel-management-system/frontend-application/fuel-management-mobile-app/app/src/main/res/layout/fragment_dashboard.xml" value="0.22826086956521738" />
+        <entry key="..\:/SLIIT/EAD/ead-fuel-management-system/frontend-application/fuel-management-mobile-app/app/src/main/res/layout/fragment_first.xml" value="0.18020833333333333" />
+        <entry key="..\:/SLIIT/EAD/ead-fuel-management-system/frontend-application/fuel-management-mobile-app/app/src/main/res/layout/fragment_fuel_details.xml" value="0.1" />
+        <entry key="..\:/SLIIT/EAD/ead-fuel-management-system/frontend-application/fuel-management-mobile-app/app/src/main/res/layout/fragment_fuel_station.xml" value="0.22826086956521738" />
+        <entry key="..\:/SLIIT/EAD/ead-fuel-management-system/frontend-application/fuel-management-mobile-app/app/src/main/res/layout/fragment_maneger.xml" value="0.10572916666666667" />
+        <entry key="..\:/SLIIT/EAD/ead-fuel-management-system/frontend-application/fuel-management-mobile-app/app/src/main/res/layout/fragment_maneger_profile.xml" value="0.10572916666666667" />
+        <entry key="..\:/SLIIT/EAD/ead-fuel-management-system/frontend-application/fuel-management-mobile-app/app/src/main/res/layout/fragment_users.xml" value="0.22826086956521738" />
+        <entry key="..\:/SLIIT/EAD/ead-fuel-management-system/frontend-application/fuel-management-mobile-app/app/src/main/res/layout/fragment_view_fuel_detail.xml" value="0.264" />
+        <entry key="..\:/SLIIT/EAD/ead-fuel-management-system/frontend-application/fuel-management-mobile-app/app/src/main/res/layout/single_view_station_layout.xml" value="0.4" />
+        <entry key="..\:/SLIIT/EAD/ead-fuel-management-system/frontend-application/fuel-management-mobile-app/app/src/main/res/layout/single_view_station_manager_layout.xml" value="0.4" />
+        <entry key="..\:/SLIIT/EAD/ead-fuel-management-system/frontend-application/fuel-management-mobile-app/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
+        <entry key="..\:/SLIIT/EAD/ead-fuel-management-system/frontend-application/fuel-management-mobile-app/app/src/main/res/menu/menu_main.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

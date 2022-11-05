@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Fuel Master</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment users</string>
+    <string name="dashboard">dashboard</string>
+    <string name="stations">Fuel Stations</string>
+    <string name="create">create</string>
+    <string name="users">users</string>
+    <string name="space">space</string>
+    <string name="create_order">Create Order</string>
+    <string name="ongoing_order">Ongoing Orders</string>
+    <string name="station_name">Station Name:</string>
+    <string name="station_location">Location:</string>
+    <string name="open_time">Open Time:</string>
+    <string name="close_time">Close Time :</string>
+    <string name="station_status">Station Status:</string>
+    <string name="more_details">Fuel Details</string>
+    <string name="fuel_Summary">Fuel Summary</string>
+    <string name="fuel_type">Fuel Type</string>
+    <string name="delete">Remove</string>
+    <string name="availabel_liters">Remaining Liters</string>
+    <string name="add_to_queue">Add to Queue</string>
+    <string name="remove_from_queue">Remove From Queue</string>
+    <string name="queue_details">Queue Details</string>
+    <string name="number_of_vehicel">Remaining Queue Slots</string>
+    <string name="Received_queue_slots">Recived Queue Slots</string>
+    <string name="diseal">About Diesel</string>
+    <string name="petrol">About Petrol</string>
+    <string name="fuel_details">Fuel Details</string>
+    <string name="remaining_queue_slots">Remaining Queue Slots</string>
+    <string name="finish">Finish</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="create_fuel_station">Create Fuel Station</string>
+    <string name="add_fuel">Add Fuel</string>
+    <string name="liters">Capacity (l)</string>
+    <string name="stations_owner">Station Owner</string>
+    <string name="text_accounts">All Accounts</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_conform_password">Conform Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="text_hello">Hello,</string>
+
+</resources>
